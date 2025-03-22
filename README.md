@@ -73,21 +73,14 @@ Explore the full **interactive dashboard** and visual analysis in the links belo
 
 ---
 
-## ⚠Disclaimer
+## Data Source & Usage
 
-The dataset used in this project was sourced from the **UK Met Office Historic Station Data** and cleaned by the team for educational and research purposes. Some features (like sunshine correction adjustments) are based on Met Office documentation.
+The dataset used in this project was obtained from the **UK Met Office Historic Station Data**. It was cleaned and prepared by the team for academic and research purposes as part of the Curiosity Cup 2025. Certain features, such as sunshine duration corrections, are based on methodology described in Met Office documentation.
 
 Data Source: [Met Office Historic Station Data](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data)
 
 ---
 
-## Acknowledgements
 
-Thanks to **SAS Curiosity Cup 2025**, mentors, and all data providers for enabling this research. Special recognition to **Team Lead: Sushant Thapa Magar**, and our supporting universities.
-
----
-
- *This project highlights the power of ethical, data-driven storytelling in climate science.*  
-> *From frost to floods, the UK’s changing climate demands informed action—now more than ever.*
 
 
