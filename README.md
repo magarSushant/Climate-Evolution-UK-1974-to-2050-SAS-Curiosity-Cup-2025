@@ -44,16 +44,6 @@ The project reveals significant shifts, such as **warmer winters**, **shorter fr
 
 ---
 
-## Visual Insights
-
-Explore the full **interactive dashboard** and visual analysis in the links below:
-
-- [Full Project Report](#)
-- [Interactive Climate Dashboard](#)
-- [GitHub Repository](#)
-
----
-
 ## Future Enhancements
 
 - Incorporate **crop yield**, **biodiversity**, and **disaster data** to explore real-world impact
@@ -63,13 +53,13 @@ Explore the full **interactive dashboard** and visual analysis in the links belo
 
 ---
 
-## Repository Contents
+## How to Use This Repository
 
-- `climate_trends_analysis.ipynb` – Python notebook for EDA and feature engineering
-- `sarima_forecasting.ipynb` – Time series modeling and projections
-- `climate_dashboard.sas` – SAS Viya visualizations and reporting
-- `presentation.pdf` – Summary slides of project findings
-- `README.md` – This file
+Explore our full project report and Jupyter notebook to understand how we analyzed 50 years of UK climate data and forecasted future conditions using statistical modeling and SAS Viya tools. These resources showcase how we used EDA, feature engineering, and SARIMA forecasting to uncover and predict climate trends across the UK.
+
+- [**View Full Project Report**](https://github.com/magarSushant/Climate-Evolution-UK-1974-to-2050-SAS-Curiosity-Cup-2025/blob/main/Curiousity%20Cup_Data%20Ninja_Climate%20change%20UK%20analysis.pdf) – *Curiosity Cup: Climate Change UK Analysis (PDF)*  
+- [**Open EDA Jupyter Notebook**](https://github.com/magarSushant/Climate-Evolution-UK-1974-to-2050-SAS-Curiosity-Cup-2025/blob/main/SAS%20Curiosity%20CUP%20EDA.ipynb) – *Python EDA & Climate Trend Analysis*
+
 
 ---
 
